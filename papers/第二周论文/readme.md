@@ -2,7 +2,7 @@
 
 1. Yu_Unsupervised_Representation_Learning_for_Gaze_Estimation_CVPR_2020_papera
 
-   **作者简介：**https://sites.google.com/view/yuyuvision/home
+   **作者简介：** https://sites.google.com/view/yuyuvision/home
 
    **bibtex**
 
