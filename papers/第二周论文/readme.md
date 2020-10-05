@@ -2,7 +2,7 @@
 
 1. Yu_Unsupervised_Representation_Learning_for_Gaze_Estimation_CVPR_2020_papera
 
-   **作者简介：**https://sites.google.com/view/yuyuvision/home
+   **作者简介：** https://sites.google.com/view/yuyuvision/home
 
    **bibtex**
 
@@ -23,7 +23,7 @@
 2. Improving Few-Shot User-Specific Gaze Adaptation
    via Gaze Redirection Synthesis   
 
-   **作者简介：**https://sites.google.com/view/yuyuvision/home
+   **作者简介：** https://sites.google.com/view/yuyuvision/home
 
    **bibtex**
 
@@ -73,9 +73,9 @@
 
 5. Few-Shot Adaptive Gaze Estimation
 
-   **地址：**https://ait.ethz.ch/projects/2019/faze/
+   **地址：** https://ait.ethz.ch/projects/2019/faze/
 
-   **github：**https://github.com/NVLabs/few_shot_gaze
+   **github：** https://github.com/NVLabs/few_shot_gaze
 
    **bibtex**
 
@@ -93,7 +93,7 @@
 
    https://ait.ethz.ch/projects/2018/landmarks-gaze/
 
-   **github：**https://github.com/swook/GazeML
+   **github：** https://github.com/swook/GazeML
 
    **bibtex**
 
@@ -222,7 +222,7 @@
 
     **bibtex**
 
-    ```JSON
+    ```json
     @InProceedings{Wang_2018_CVPR,
     author = {Wang, Kang and Zhao, Rui and Ji, Qiang},
     title = {A Hierarchical Generative Model for Eye Image Synthesis and Eye Gaze Estimation},
@@ -236,11 +236,11 @@
 
 15. [Mixed Effects Neural Networks (MeNets) With Applications to Gaze Estimation](https://openaccess.thecvf.com/content_CVPR_2019/html/Xiong_Mixed_Effects_Neural_Networks_MeNets_With_Applications_to_Gaze_Estimation_CVPR_2019_paper.html)
 
-    **github:**https://github.com/vsingh-group/MeNets
+    **github：**  https://github.com/vsingh-group/MeNets
 
     **bibtex**
 
-    ```JSON
+    ```json
     @InProceedings{Xiong_2019_CVPR,
     author = {Xiong, Yunyang and Kim, Hyunwoo J. and Singh, Vikas},
     title = {Mixed Effects Neural Networks (MeNets) With Applications to Gaze Estimation},
